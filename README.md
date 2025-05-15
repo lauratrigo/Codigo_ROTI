@@ -1,4 +1,4 @@
-# 📊 Análise de Dados de Estações Meteorológicas
+# 📊 Análise de Dados de Estações de Dados Ionosféricos
 
 Este projeto é uma **aplicação MATLAB** que realiza a análise de dados de diferentes estações meteorológicas ao longo de um intervalo de dias. Ele lê os arquivos de dados, identifica lacunas, e plota gráficos para cada estação, permitindo uma análise visual detalhada da variação do índice ROTI (TECU/min) ao longo do tempo.
 
