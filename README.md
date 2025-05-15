@@ -64,3 +64,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 ## 🎥 Créditos
 
 Este projeto foi desenvolvido por Laura Trigo na iniciação científica no IP&D (UNIVAP), com base na análise de dados ionosféricos e gráficos em MATLAB.
+
+![Gráfico ROTI](image.png)
+
