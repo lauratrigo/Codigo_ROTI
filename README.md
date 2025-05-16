@@ -61,10 +61,6 @@ O código segue a seguinte lógica:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-## 🎥 Créditos
-
-Este projeto foi desenvolvido por Laura Trigo na iniciação científica no IP&D (UNIVAP), com base na análise e redução de dados ionosféricos e gráficos em MATLAB.
-
 <p align="center">
   <img src="image.png" alt="Gráfico ROTI" width="500" />
 </p>
