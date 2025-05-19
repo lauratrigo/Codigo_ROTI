@@ -61,7 +61,6 @@ O código segue a seguinte lógica:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-<p align="center">
-  <img src="image.png" alt="Gráfico ROTI" width="500" />
-</p>
-
+<div align="center">
+  <img src="images/image.png" alt="Código ROTI" width="500">
+</div>
