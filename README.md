@@ -7,7 +7,7 @@ Este projeto é uma **aplicação MATLAB** que realiza a análise de dados de di
 - **MATLAB**
 - **Gráficos e Visualização de Dados**
 
-![MATLAB Badge](https://img.shields.io/badge/MATLAB-R2023b-red)
+![MATLAB Badge](https://img.shields.io/badge/MATLAB-R2019b-red)
 
 ## 💡 Objetivo
 
